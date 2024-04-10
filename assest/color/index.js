@@ -1,0 +1,22 @@
+export const colors = {
+    loading: "#FFC0CB",
+    horizontalOnly: "#eb95bc",
+    tabViewColor: "#cde8e3",
+    containerColor : "#FFFq",
+    titleOrderColor: "#333333",
+    priceSaleColor: "#FF9900",
+    priceColor: "#696969",
+    tintColorInventory: "#FFF",
+    tabTitleColor : "#3c6b71",
+    buttomColor: "#8cd2c6",
+    textButtomColor: "#FFF",
+    PurchaseInformationTincolor: "#808080",
+    productCodeColor : "#330066",
+    userInfoScreenTabText : "#3c6b71",
+    green: '#2ecc71',
+    blue: '#3498db',
+    orange: '#e67e22',
+    purple: '#9b59b6',
+    red: '#e74c3c',
+}
+
